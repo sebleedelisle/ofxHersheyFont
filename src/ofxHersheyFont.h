@@ -12,7 +12,7 @@
 *  Available characters: ASCII codes 32 to 126.
 *
 */
-
+#pragma once 
 #include "ofMain.h"
 
 class ofxHersheyFont {
